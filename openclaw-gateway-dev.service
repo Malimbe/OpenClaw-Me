@@ -1,0 +1,13 @@
+[Unit]
+Description=OpenClaw Gateway (Dev Profile with Telegram)
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c 'cd /mnt/c/Users/KONGO\ JOEL/AppData/Roaming/npm && cmd.exe /c openclaw --dev gateway start'
+Restart=on-failure
+RestartSec=10
+WorkingDirectory=/mnt/c/Users/KONGO\ JOEL
+
+[Install]
+WantedBy=default.target

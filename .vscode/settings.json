@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "OpenClaw (Ollama)": {
+            "source": "PowerShell",
+            "args": [
+                "-NoExit",
+                "-Command",
+                "& 'C:\\Users\\KONGO JOEL\\Documents\\ANTIGRAVITY\\start_openclaw.bat'"
+            ],
+            "icon": "robot",
+            "color": "terminal.ansiGreen"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "OpenClaw (Ollama)"
+}

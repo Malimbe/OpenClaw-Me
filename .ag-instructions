@@ -1,0 +1,6 @@
+# Règle Absolue (Klinhi Project)
+Avant de faire des modifications sur leFrontend (Dossier Klinhi-Frontent) ou le Backend (Dossier Klinhi-Backend), tu dois ABSOLUMENT lire ce document :
+`C:\Users\KONGO JOEL\Documents\ANTIGRAVITY\documentation\KLINHI_MASTER_DOC.md`
+
+Ce fichier contient l'architecture, le design system, les droits (RBAC), et l'intégration du MCP (Node.js) et du Go.
+Si tu ne le lis pas, tu risques de casser les standards de l'application. Ne prends aucune décision architecturale (Frontend, Go, ou MCP) sans avoir consulté ce document maître.
