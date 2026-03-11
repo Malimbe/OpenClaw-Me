@@ -160,7 +160,7 @@ ou ajoutez des IDs autorisés :
 
 ## Informations Techniques
 
-- **Modèle IA** : ollama/qwen2.5-coder:1.5b
+- **Modèle IA** : `ollama/glm4` (5.5 GB)
 - **Version OpenClaw** : 2026.3.2
 - **Identité du bot** : C3-PO (🤖)
 - **Token Bot** : Configuré via BotFather
@@ -176,7 +176,7 @@ ou ajoutez des IDs autorisés :
   "agents": {
     "defaults": {
       "model": {
-        "primary": "ollama/qwen2.5-coder:1.5b"
+        "primary": "ollama/glm4"
       },
       "workspace": "C:\\Users\\KONGO JOEL\\Documents\\MOLBOT\\.openclaw\\workspace-dev",
       "skipBootstrap": true
