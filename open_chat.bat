@@ -6,7 +6,7 @@ color 0A
 echo.
 echo  ╔════════════════════════════════════════╗
 echo  ║       OpenClaw - Chat IA Local         ║
-echo  ║   Model: ollama/qwen2.5-coder:1.5b     ║
+echo  ║   Model: ollama/qwen2.5:14b     ║
 echo  ║   Ollama: http://127.0.0.1:11434       ║
 echo  ╚════════════════════════════════════════╝
 echo.
